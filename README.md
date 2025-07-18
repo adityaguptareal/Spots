@@ -35,9 +35,7 @@ This was built as part of an internship project at **Tripo Saints**.
 
 - ✅ Department filter dropdown
 - 🔐 Admin mode to update seating
-- 🔗 Backend integration (Firebase/Supabase)
-- 📅 Drag-and-drop seat assignment (for office admins)
-
+- 🔗 Backend integration (With Node js)
 ---
 
 ## 🙌 Author

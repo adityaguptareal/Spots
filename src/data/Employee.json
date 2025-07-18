@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "name": "Emily Zhang",
+    "designation": "Product Manager",
+    "department": "Product Team",
+    "status": "Meeting",
+    "project": "Q4 Product Roadmap",
+    "email": "emily.zhang@triposaint.com",
+    "profilePic": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "designation": "Product Manager",
+    "department": "Product Team",
+    "status": "Available",
+    "project": "Product Launch",
+    "email": "michael.chen@triposaint.com",
+    "profilePic": "https://randomuser.me/api/portraits/men/32.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sophie Kim",
+    "designation": "Product Manager",
+    "department": "Product Team",
+    "status": "In Meeting",
+    "project": "User Journey Mapping",
+    "email": "sophie.kim@triposaint.com",
+    "profilePic": "https://randomuser.me/api/portraits/women/65.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Arjun Patel",
+    "designation": "Product Manager",
+    "department": "Product Team",
+    "status": "On Break",
+    "project": "Brand Positioning",
+    "email": "arjun.patel@triposaint.com",
+    "profilePic": "https://randomuser.me/api/portraits/men/15.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Liam Thompson",
+    "designation": "Software Engineer",
+    "department": "Engineering",
+    "status": "Available",
+    "project": "Backend APIs",
+    "email": "liam.thompson@triposaint.com",
+    "profilePic": "https://randomuser.me/api/portraits/men/53.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ayesha Khan",
+    "designation": "Software Engineer",
+    "department": "Engineering",
+    "status": "Working Remotely",
+    "project": "UI Components",
+    "email": "ayesha.khan@triposaint.com",
+    "profilePic": "https://randomuser.me/api/portraits/women/12.jpg"
+  },
+  
+  {
+    "id": 8,
+    "name": "Ritika Mehra",
+    "designation": "Mobile Developer",
+    "department": "Engineering",
+    "status": "On Break",
+    "project": "iOS App",
+    "email": "ritika.mehra@triposaint.com",
+    "profilePic": "https://randomuser.me/api/portraits/women/27.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Oliver Smith",
+    "designation": "UX Designer",
+    "department": "Design",
+    "status": "Available",
+    "project": "Design System",
+    "email": "oliver.smith@triposaint.com",
+    "profilePic": "https://randomuser.me/api/portraits/men/33.jpg"
+  },
+  
+  {
+    "id": 11,
+    "name": "Rajesh Reddy",
+    "designation": "UX Designer",
+    "department": "Design",
+    "status": "Available",
+    "project": "Design Audit",
+    "email": "rajesh.reddy@triposaint.com",
+    "profilePic": "https://randomuser.me/api/portraits/men/41.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Lucy Brown",
+    "designation": "UX Designer",
+    "department": "Design",
+    "status": "On Break",
+    "project": "Accessibility Review",
+    "email": "lucy.brown@triposaint.com",
+    "profilePic": "https://randomuser.me/api/portraits/women/60.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Ethan Williams",
+    "designation": "QA Engineer",
+    "department": "QA",
+    "status": "Available",
+    "project": "Regression Suite",
+    "email": "ethan.williams@triposaint.com",
+    "profilePic": "https://randomuser.me/api/portraits/men/60.jpg"
+  },
+
+  {
+    "id": 16,
+    "name": "Sara Ali",
+    "designation": "QA Engineer",
+    "department": "QA",
+    "status": "Available",
+    "project": "Smoke Testing",
+    "email": "sara.ali@triposaint.com",
+    "profilePic": "https://randomuser.me/api/portraits/women/22.jpg"
+  }
+]

@@ -1,12 +1,46 @@
-# React + Vite
+# 🪑 Spot – Team Seat Visualizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Spot** is a responsive React + Tailwind CSS web app to visualize employee seating arrangements by department.  
+This was built as part of an internship project at **Tripo Saints**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✅ Features Implemented
 
-## Expanding the ESLint configuration
+- 🧭 **Department-based tables** (Engineering, Design, QA, Product Team)
+- 🪑 **Seat component** with hover-to-view employee details (name, role, project, etc.)
+- 🔍 **Search bar** to find and highlight an employee's seat
+- 🎯 **Dynamic seat coloring**: 
+  - Brown if occupied
+  - Light grey if vacant
+  - Blue ring if matched in search
+- 📋 **Status display**: Shows if the person is available, in a meeting, or on break
+- ⚡ **Responsive layout**: Works well across desktop and mobile screens
+- 🧠 **Modular components** for easy maintenance (`Seat`, `Table`, `EmployeeCard`)
+- 🚀 **Clean, modern UI** using Tailwind CSS and icons from Lucide
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **React Router DOM**
+
+---
+
+---
+
+## 🔮 Possible Future Improvements
+
+- ✅ Department filter dropdown
+- 🔐 Admin mode to update seating
+- 🔗 Backend integration (Firebase/Supabase)
+- 📅 Drag-and-drop seat assignment (for office admins)
+
+---
+
+## 🙌 Author
+
+Built with ❤️ by **Aditya Gupta**  
+🎓 Internship Project @ **Tripo Saints**

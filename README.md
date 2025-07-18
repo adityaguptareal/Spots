@@ -3,6 +3,17 @@
 **Spot** is a responsive React + Tailwind CSS web app to visualize employee seating arrangements by department.  
 This was built as part of an internship project at **Tripo Saints**.
 
+## 📦 Getting Started
+
+Clone the repo and run locally:
+
+```bash
+git clone https://github.com/adityaguptareal/Spots.git
+cd Spots
+npm install
+npm run dev
+
+```
 ---
 
 ## ✅ Features Implemented
@@ -27,7 +38,6 @@ This was built as part of an internship project at **Tripo Saints**.
 - **Tailwind CSS**
 - **React Router DOM**
 
----
 
 ---
 

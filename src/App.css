@@ -1,10 +1,15 @@
 @import "tailwindcss";
 
-*{
-    font-family: "Inter", sans-serif;
+* {
+  font-family: "Inter", sans-serif;
 }
-@theme{
-    --font-Inter: "Inter", sans-serif;
-    --color-Chair:  #8E4E04;
-    --color-Table: #F9EAA4;
+@theme {
+  --breakpoint-xs: 375px; /* Extra small phones */
+  --breakpoint-sm: 425px; /* Small phones */
+  --breakpoint-md: 768px; /* Tablets */
+  --breakpoint-lg: 976px; /* Small laptops */
+  --breakpoint-xl: 1200px; /* Desktop */
+  --font-Inter: "Inter", sans-serif;
+  --color-Chair: #8e4e04;
+  --color-Table: #f9eaa4;
 }

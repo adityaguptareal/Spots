@@ -28,7 +28,7 @@ const isHighlighted = (emp) => {
 
   return (
     <div className="w-full md:w-1/2 md:h-[200px] lg:h-[450px] p-2 sm:p-4 cursor-pointer">
-      <div className="flex gap-5 justify-around">
+      <div className="flex gap-5 justify-around md:justify-center lg:justify-around">
         <Seat
           employee={authorizedSeats[0]}
           highlight={isHighlighted(authorizedSeats[0])}
@@ -39,13 +39,13 @@ const isHighlighted = (emp) => {
         />
       </div>
 
-      <div className="w-full h-[150px] md:h-[70%] bg-Table rounded-lg shadow-md flex justify-center items-center">
-        <span className="text-xl md:text-3xl font-Inter font-medium text-Chair">
+      <div className="w-full md:w-full h-[150px] md:h-[80%] lg:h-[70%] bg-Table rounded-lg shadow-md flex justify-center items-center">
+        <span className="text-xl md:text-2xl lg:text-3xl font-Inter font-medium text-Chair">
           {tableName}
         </span>
       </div>
 
-      <div className="flex gap-5 justify-around">
+      <div className="flex gap-5 justify-around md:justify-center lg:justify-around">
         <Seat
           rotate="transform scale-y-[-1]"
           employee={authorizedSeats[2]}

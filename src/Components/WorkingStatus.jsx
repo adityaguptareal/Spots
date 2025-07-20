@@ -8,7 +8,7 @@ function WorkingStatus() {
 
   const [totalEmployeeCount, settotalEmployeeCount] = useState(0);
   return (
-    <section className="w-3/4 mx-auto my-10 p-10 bg-white h-fit rounded-lg shadow-md ">
+    <section className="w-10/12 md:w-3/4 mx-auto my-10 p-10 bg-white h-fit rounded-lg shadow-md ">
       <div className="font-Inter font-medium md:text-xl text-[18px]">
         {" "}
         🏢 Office Status

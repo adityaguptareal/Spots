@@ -45,10 +45,10 @@ npm run dev
 
 - ✅ Department filter dropdown
 - 🔐 Admin mode to update seating
-- 🔗 Backend integration (With Node js)
+- 🔗 Backend integration (With Node.js)
 ---
 
 ## 🙌 Author
 
 Built with ❤️ by **Aditya Gupta**  
-🎓 Internship Project @ **Tripo Saints**
+🎓 Internship Assesment @ **Tripo Saints**
